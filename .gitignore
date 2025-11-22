@@ -1,0 +1,14 @@
+ensemble_result/*
+!ensemble_result/.gitkeep
+
+model/*
+!model/.gitkeep
+
+prediction_result/*
+!prediction_result/.gitkeep
+
+pretrained/*
+!pretrained/.gitkeep
+
+result/*
+!result/.gitkeep
