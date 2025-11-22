@@ -12,3 +12,4 @@ pretrained/*
 
 result/*
 !result/.gitkeep
+.DS_Store
