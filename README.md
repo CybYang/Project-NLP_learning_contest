@@ -6,6 +6,8 @@
 
 ## 文件结构
 
+文件结构仅作为示例，由于数据文件太大并未上传到仓库中
+
 ```
 ├─ data/                   # train.tsv / dev.tsv / test.tsv
 ├─ model/                  # 三个模型各自的最优权重 *.pth 
